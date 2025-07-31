@@ -95,5 +95,5 @@ This project includes a curated 8-song mix used as inspiration and demonstration
 ## 📬 Contact
 
 Created by **Enoghayin Jillient Imasuen**  
-Feel free to connect via [LinkedIn]((https://www.linkedin.com/in/enoghayin-jillient-imasuen-9080b2236?)) or GitHub at [enoimasuen](https://github.com/enoimasuen)
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/enoghayin-jillient-imasuen-9080b2236?) or GitHub at [enoimasuen](https://github.com/enoimasuen)
 
