@@ -48,7 +48,7 @@ The project is built around two custom classification frameworks — one for **A
 
 ---
 
-##  Repository Structure
+##  Repository
 /data/
 
 ├── working_spotify_playlist_popularity.csv # Spotify metadata & popularity
@@ -63,7 +63,7 @@ The project is built around two custom classification frameworks — one for **A
 
 ├── hit_song_predictor.ipynb # Full notebook with data collection, modeling, and analysis
 
-📄 README.md # This file
+📄 README.md 
 
 
 ---
