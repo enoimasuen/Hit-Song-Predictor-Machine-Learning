@@ -55,15 +55,12 @@ This end-to-end machine learning project pulls from the Spotify API and cross-re
 ## Repository
 
 ```
-/data/
-├── working_spotify_playlist_popularity.csv   # Spotify metadata & popularity
-├── afrobeats_amapiano_stream_data.csv        # Stream counts + genre + release date
-├── billboard_hits.csv                        # Billboard Africa chart placements
-├── viral_on_tiktok.csv                       # Binary flag for TikTok virality
-├── lyrics_cache.csv                          # Cached Genius lyrics + VADER sentiment
-/notebooks/
-├── hit_song_predictor.ipynb                  # Full notebook: collection, modeling, analysis
-README.md
+.
+├── Hit_Song_Predictor_EI.ipynb        # Full notebook: collection, feature engineering, modeling, analysis
+├── playlist_and_all_audio_done.csv    # Main dataset: Spotify popularity, SPD, TikTok, Billboard, audio features, genre
+├── data/
+│   └── lyrics_cache.csv               # Cached Genius lyrics + VADER sentiment scores
+└── README.md
 ```
 
 ---
