@@ -4,6 +4,8 @@ Can machine learning predict the next Afrobeats or Amapiano hit?
 
 This project explores whether streaming data, chart performance, social virality, lyric sentiment, and song metadata can help forecast a song's success in two genres shaping the global soundscape.
 
+**[→ Open the interactive report](https://enoimasuen.github.io/Hit-Song-Predictor-Machine-Learning/Hit_Song_Predictor_ML.html)**
+
 ---
 
 ## Overview
