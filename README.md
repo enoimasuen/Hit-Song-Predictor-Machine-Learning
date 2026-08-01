@@ -58,7 +58,7 @@ This end-to-end machine learning project pulls from the Spotify API and cross-re
 
 ```
 .
-├── Hit_Song_Predictor_EI.ipynb        # Full notebook: collection, feature engineering, modeling, analysis
+├── Hit_Song_Predictor_ML.ipynb        # Full notebook: collection, feature engineering, modeling, analysis
 ├── playlist_and_all_audio_done.csv    # Main dataset: Spotify popularity, SPD, TikTok, Billboard, audio features, genre
 ├── data/
 │   └── lyrics_cache.csv               # Cached Genius lyrics + VADER sentiment scores
